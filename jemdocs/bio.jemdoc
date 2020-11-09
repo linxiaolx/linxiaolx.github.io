@@ -1,4 +1,9 @@
-# jemdoc: menu{MENU}{bio.html}
-= Lin Xiao -- bio
+# jemdoc: menu{MENU}{bio.html}{../}
+= Lin Xiao -- Biography
 
-This is my bio
+Lin Xiao is a Research Scientist at Facebook AI Research (FAIR) in Seattle, Washington. He received BE from Beijing University of Aeronautics and Astronautics (Beihang University) and PhD from Stanford University, and was a postdoctoral fellow in the Center for the Mathematics of Information at California Institute of Technology. 
+Before joining Facebook, he spent 14 great years as a Researcher at Microsoft Research. 
+He currently serves as an associate editor for the SIAM Journal on Optimization, and has served as area chairs for several machine learning conferences including NeurIPS, ICML and ICLR.
+
+He won the Young Researcher competition at the first International Conference on Continuous Optimization in 2004 for his work on fastest mixing Markov chains, and the Test of Time Award at NeurIPS 2019 for his work on the regularized dual averaging method for sparse stochastic optimization and online learning. 
+His current research interests include theory and algorithms for large-scale optimization and machine learning, reinforcement learning, and parallel and distributed computing. 
