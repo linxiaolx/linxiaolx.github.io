@@ -5,10 +5,10 @@
 
 === 2021
 
-- [https://arxiv.org/abs/1908.11468 
-  MultiLevel Composite Stochastic Optimization via Nested Variance Reduction] \n
-  Junyu Zhang and Lin Xiao \n
-  /SIAM Journal on Optimization/, 31(2):1131-1157, 2021
+- [https://link.springer.com/article/10.1007%2Fs11590-021-01748-7
+  On self-concordant barriers for generalized power cones] \n
+  Scott Roy and Lin Xiao \n
+  /Optimization Letters/, published online, June, 2021
 
 - [https://jmlr.org/beta/papers/v22/20-821.html
   From low probability to high confidence in stochastic convex optimization] \n
@@ -20,10 +20,15 @@
   Filip Hanely, Peter Richtarik, and Lin Xiao \n
   /Computational Optimization and Applications/, 79:405-440, 2021
 
-- [https://link.springer.com/article/10.1007%2Fs11590-021-01748-7
-  On self-concordant barriers for generalized power cones] \n
-  Scott Roy and Lin Xiao \n
-  /Optimization Letters/, published online, 2021
+- [https://arxiv.org/abs/1908.11468 
+  MultiLevel Composite Stochastic Optimization via Nested Variance Reduction] \n
+  Junyu Zhang and Lin Xiao \n
+  /SIAM Journal on Optimization/, 31(2):1131-1157, 2021
+
+- [https://arxiv.org/abs/1811.11637 
+  Adaptive stochastic variance reduction for subsampled Newton method with cubic regularization] \n
+  Junyu Zhang, Lin Xiao, and Shuzhong Zhang \n
+  /INFORMS Journal on Optimization/, to appear, 2021
 
 === 2020
 
@@ -32,7 +37,13 @@
   Dmitriy Drusvyatskiy and Lin Xiao  \n
   /arXiv preprint/
 
+- [https://arxiv.org/abs/2002.10597 
+  Statistical Adaptive Stochastic Gradient Methods] \n
+  Pengchuan Zhang, Hunter Lang, Qiang Liu, and Lin Xiao \n
+  /arXiv preprint/
+
 - [https://arxiv.org/abs/2004.04357
   Stochastic variance-reduced prox-linear algorithms for nonconvex composite optimization] \n
   Junyu Zhang and Lin Xiao  \n
   /arXiv preprint/
+

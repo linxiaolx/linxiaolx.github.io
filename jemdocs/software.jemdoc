@@ -2,7 +2,10 @@
 = Lin Xiao -- Software
 
 - Accelerated Bregman proximal gradient methods \n
-  Github: [https://github.com/linxiaolx/accbpg  ACCBPG] \n
-  Paper: [https://arxiv.org/abs/1808.03045  Accelerated Bregman proximal gradient methods for relatively smooth convex optimization] 
+  [https://github.com/linxiaolx/accbpg  Github repo] \n
+  [https://arxiv.org/abs/1808.03045  Paper]
 
+- Statistical adaptive stochastic gradient methods \n
+  [https://github.com/linxiaolx/statopt  Github repo] \n
+  [https://arxiv.org/abs/2002.10597 Paper] 
 
