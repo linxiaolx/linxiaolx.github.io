@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{software.html}{../}
+= Lin Xiao -- Software
+
+- Accelerated Bregman proximal gradient methods \n
+  Github: [https://github.com/linxiaolx/accbpg  ACCBPG] \n
+  Paper: [https://arxiv.org/abs/1808.03045  Accelerated Bregman proximal gradient methods for relatively smooth convex optimization] 
+
+

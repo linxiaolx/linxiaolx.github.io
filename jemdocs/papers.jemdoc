@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{papers.html}{../}
+= Lin Xiao -- Papers
+
+[https://scholar.google.com/citations?user=vK0-CDcAAAAJ&hl=en Google scholar page] 
+
+=== 2021
+
+- [https://arxiv.org/abs/1908.11468 
+  MultiLevel Composite Stochastic Optimization via Nested Variance Reduction] \n
+  Junyu Zhang and Lin Xiao \n
+  /SIAM Journal on Optimization/, 31(2):1131-1157, 2021
+
+- [https://jmlr.org/beta/papers/v22/20-821.html
+  From low probability to high confidence in stochastic convex optimization] \n
+  Damek Davis, Dmitriy Drusvyatskiy, Lin Xiao, and Junyu Zhang \n
+  /Journal of Machine Learning Research/, 22(49):1-38, 2021
+
+- [https://link.springer.com/article/10.1007%2Fs10589-021-00273-8
+  Accelerated Bregman proximal gradient methods for relatively smooth convex optimization] \n
+  Filip Hanely, Peter Richtarik, and Lin Xiao \n
+  /Computational Optimization and Applications/, 79:405-440, 2021
+
+- [https://link.springer.com/article/10.1007%2Fs11590-021-01748-7
+  On self-concordant barriers for generalized power cones] \n
+  Scott Roy and Lin Xiao \n
+  /Optimization Letters/, published online, 2021
+
+=== 2020
+
+- [https://arxiv.org/abs/2011.11173
+  Stochastic optimization with decision-dependent distributions] \n
+  Dmitriy Drusvyatskiy and Lin Xiao  \n
+  /arXiv preprint/
+
+- [https://arxiv.org/abs/2004.04357
+  Stochastic variance-reduced prox-linear algorithms for nonconvex composite optimization] \n
+  Junyu Zhang and Lin Xiao  \n
+  /arXiv preprint/
