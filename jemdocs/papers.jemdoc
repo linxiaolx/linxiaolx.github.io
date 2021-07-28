@@ -8,42 +8,178 @@
 - [https://link.springer.com/article/10.1007%2Fs11590-021-01748-7
   On self-concordant barriers for generalized power cones] \n
   Scott Roy and Lin Xiao \n
-  /Optimization Letters/, published online, June, 2021
+  /Optimization Letters/, published online, June, 2021.
 
 - [https://jmlr.org/beta/papers/v22/20-821.html
   From low probability to high confidence in stochastic convex optimization] \n
   Damek Davis, Dmitriy Drusvyatskiy, Lin Xiao, and Junyu Zhang \n
-  /Journal of Machine Learning Research/, 22(49):1-38, 2021
+  /Journal of Machine Learning Research/, 22(49):1-38, 2021.
 
 - [https://link.springer.com/article/10.1007%2Fs10589-021-00273-8
   Accelerated Bregman proximal gradient methods for relatively smooth convex optimization] \n
   Filip Hanely, Peter Richtarik, and Lin Xiao \n
-  /Computational Optimization and Applications/, 79:405-440, 2021
+  /Computational Optimization and Applications/, 79:405-440, 2021.
 
 - [https://arxiv.org/abs/1908.11468 
   MultiLevel Composite Stochastic Optimization via Nested Variance Reduction] \n
   Junyu Zhang and Lin Xiao \n
-  /SIAM Journal on Optimization/, 31(2):1131-1157, 2021
+  /SIAM Journal on Optimization/, 31(2):1131-1157, 2021.
 
 - [https://arxiv.org/abs/1811.11637 
   Adaptive stochastic variance reduction for subsampled Newton method with cubic regularization] \n
   Junyu Zhang, Lin Xiao, and Shuzhong Zhang \n
-  /INFORMS Journal on Optimization/, to appear, 2021
+  /INFORMS Journal on Optimization/, to appear, 2021.
 
 === 2020
 
 - [https://arxiv.org/abs/2011.11173
   Stochastic optimization with decision-dependent distributions] \n
   Dmitriy Drusvyatskiy and Lin Xiao  \n
-  /arXiv preprint/
+  /arXiv preprint/, 2020.
 
 - [https://arxiv.org/abs/2002.10597 
   Statistical Adaptive Stochastic Gradient Methods] \n
   Pengchuan Zhang, Hunter Lang, Qiang Liu, and Lin Xiao \n
-  /arXiv preprint/
+  /arXiv preprint/, 2020.
 
 - [https://arxiv.org/abs/2004.04357
   Stochastic variance-reduced prox-linear algorithms for nonconvex composite optimization] \n
   Junyu Zhang and Lin Xiao  \n
-  /arXiv preprint/
+  /arXiv preprint/, 2020.
+
+- [http://proceedings.mlr.press/v119/hendrikx20a.html
+  Statistically Preconditioned Accelerated Gradient Method for Distributed Optimization] \n
+  Hadrien Hendrikx, Lin Xiao, Sebastien Bubeck, Francis Bach, Laurent Massoulie \n
+  /Proceedings of the 37th International Conference on Machine Learning/, PMLR 119:4203-4227, 2020.
+
+
+=== 2019
+
+- [https://jmlr.org/papers/v20/17-608.html
+  DSCOVR: Randomized Primal-Dual Block Coordinate Algorithms for Asynchronous Distributed Optimization] \n
+  Lin Xiao, Adams Wei Yu, Qihang Lin, Weizhu Chen \n
+  /Journal of Machine Learning Research/, 20(43):1−58, 2019.
+
+- [https://papers.nips.cc/paper/2019/hash/e1054bf2d703bca1e8fe101d3ac5efcd-Abstract.html
+  Using Statistics to Automate Stochastic Optimization] \n
+  Hunter Lang, Lin Xiao, Pengchuan Zhang \n
+  /Advances in Neural Information Processing Systems 32/ (NeurIPS 2019).
+
+- [https://proceedings.neurips.cc/paper/2019/hash/4eff0720836a198b6174eecf02cbfdbf-Abstract.html
+  Understanding the Role of Momentum in Stochastic Gradient Methods] \n
+  Igor Gitman, Hunter Lang, Pengchuan Zhang, Lin Xiao \n
+  /Advances in Neural Information Processing Systems 32/ (NeurIPS 2019).
+
+- [https://proceedings.neurips.cc/paper/2019/hash/a68259547f3d25ab3c0a5c0adb4e3498-Abstract.html
+  Stochastic Composite Gradient Method with Incremental Variance Reduction] \n
+  Junyu Zhang, Lin Xiao
+  /Advances in Neural Information Processing Systems 32/ (NeurIPS 2019).
+
+=== 2018
+
+- [https://papers.nips.cc/paper/2018/hash/6aaba9a124857622930ca4e50f5afed2-Abstract.html
+  Coupled Variational Bayes via Optimization Embedding] \n
+  Bo Dai, Hanjun Dai, Niao He, Weiyang Liu, Zhen Liu, Jianshu Chen, Lin Xiao, Le Song \n
+  /Advances in Neural Information Processing Systems 31/ (NeurIPS 2018).
+
+- [https://papers.nips.cc/paper/2018/hash/03b2ceb73723f8b53cd533e4fba898ee-Abstract.html
+  Learning SMaLL Predictors] \n
+  Vikas Garg, Ofer Dekel, Lin Xiao \n
+  /Advances in Neural Information Processing Systems 31/ (NeurIPS 2018).
+
+- [http://proceedings.mlr.press/v80/dai18c.html
+  SBEED: Convergent Reinforcement Learning with Nonlinear Function Approximation] \n
+  Bo Dai, Albert Shaw, Lihong Li, Lin Xiao, Niao He, Zhen Liu, Jianshu Chen, Le Song \n
+  /Proceedings of the 35th International Conference on Machine Learning/, PMLR 80:1125-1134, 2018.
+ 
+- [http://auai.org/uai2018/proceedings/papers/250.pdf
+  Sparse Multi-Prototype Classification] \n
+  Vikas K. Garg, Lin Xiao, Ofer Dekel \n
+  /Proceedings of the Conference on Uncetainty in Artifical Intelligence (UAI)/, 2018.
+
+- [https://arxiv.org/abs/1501.00263
+  Communication-Efficient Distributed Optimization of Self-Concordant Empirical Loss] \n
+  Yuchen Zhang and Lin Xiao \n
+  /Large-Scale and Distributed Optimization/, Giselsson and Rantzer (Editors), pages 289-341, Springer, 2018.
+
+=== 2017
+
+- [https://jmlr.org/beta/papers/v18/16-568.html
+  Stochastic Primal-Dual Coordinate Method for Regularized Empirical Risk Minimization] \n
+  Yuchen Zhang and Lin Xiao \n
+  /Journal of Machine Learning Research/, 18(84):1-42, 2017.
+
+- [https://arxiv.org/abs/1507.04734
+  Variational Gram functions: convex analysis and optimization] \n
+  Amin Jalali, Maryam Fazel, Lin Xiao \n
+  /SIAM Journal on Optimization/, 27(4):634-2661, 2017.
+
+- [https://arxiv.org/abs/1306.5918
+  A Randomized Nonmonotone Block Proximal Gradient Method for a Class of Structured Nonlinear Programming] \n
+  Zhaosong Lu and Lin Xiao \n
+  /SIAM Journal on Numerical Analysis/, 55(6):2930-2955, 2017.
+
+- [https://papers.nips.cc/paper/2017/hash/c0e90532fb42ac6de18e25e95db73047-Abstract.html
+  Q-LDA: Uncovering Latent Patterns in Text-based Sequential Decision Processes] \n
+  Jianshu Chen, Chong Wang, Lin Xiao, Ji He, Lihong Li, Li Deng \n
+  /Advances in Neural Information Processing Systems 30/ (NIPS 2017).
+
+- [http://proceedings.mlr.press/v70/du17a.html
+  Stochastic Variance Reduction Methods for Policy Evaluation] \n
+  Simon S. Du, Jianshu Chen, Lihong Li, Lin Xiao, Dengyong Zhou \n
+  /Proceedings of the 34th International Conference on Machine Learning/, PMLR 70:1049-1058, 2017.
+
+- [http://proceedings.mlr.press/v70/wang17l.html
+  Exploiting Strong Convexity from Data with Primal-Dual First-Order Algorithms] \n
+  Jialei Wang and Lin Xiao \n
+  /Proceedings of the 34th International Conference on Machine Learning/, PMLR 70:3694-3702, 2017.
+
+=== 2015
+
+- [https://epubs.siam.org/doi/abs/10.1137/141000270
+  An Accelerated Randomized Proximal Coordinate Gradient Method and its Application to Regularized Empirical Risk Minimization] \n
+  Qihang Lin, Zhaosong Lu, and Lin Xiao \n
+  /SIAM Journal on Optimization/, 25(4):2244–2273, 2015.
+
+- [https://arxiv.org/abs/1305.4723
+  On the Complexity Analysis of Randomized Block-Coordinate Descent Methods] \n
+  Zhaosong Lu and Lin Xiao \n
+  /Mathematical Programming/, Series A, 152(1-2):15-642, 2015.
+
+- [https://link.springer.com/article/10.1007/s10589-014-9694-4
+  An adaptive accelerated proximal gradient method and its homotopy continuation for sparse optimization] \n
+  Qihang Lin and Lin Xiao \n
+  /Computational Optimization and Applications/, 60(3):633-674, 2015.
+
+- [https://papers.nips.cc/paper/2015/hash/4ca82782c5372a547c104929f03fe7a9-Abstract.html
+  End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture] \n
+  Jianshu Chen, Ji He, Yelong Shen, Lin Xiao, Xiaodong He, Jianfeng Gao, Xinying Song, Li Deng \n
+  /Advances in Neural Information Processing Systems 28/ (NIPS 2015).
+
+- [https://dl.acm.org/doi/10.1145/2783258.2783412
+  Scaling Up Stochastic Dual Coordinate Ascent] \n
+  Kenneth Tran, Saghar Hosseini, Lin Xiao, Thomas Finley, Mikhail Bilenko \n
+  /Proceedings of the 21st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2015.
+
+- [http://proceedings.mlr.press/v37/zhanga15.html
+  Stochastic Primal-Dual Coordinate Method for Regularized Empirical Risk Minimization] \n
+  Yuchen Zhang and Lin Xiao \n
+  /Proceedings of the 32nd International Conference on Machine Learning/, PMLR 37:353-361, 2015.
+
+- [http://proceedings.mlr.press/v37/zhangb15.html
+  DiSCO: Distributed Optimization for Self-Concordant Empirical Loss] \n
+  Yuchen Zhang and Lin Xiao \n
+  /Proceedings of the 32nd International Conference on Machine Learning/, PMLR 37:362-370, 2015.
+
+
+
+
+
+
+
+
+
+
+
+
 

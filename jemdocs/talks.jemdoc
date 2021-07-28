@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{talks.html}{../}
 = Lin Xiao -- Talks
 
-- A Tutorial on Policy Gradient Methods \n
+#- A Tutorial on Policy Gradient Methods \n
 #  [../pdf/policy_grad_tutorial.pdf Slides] \n
-  /Minitutorial on AI, Machine Learning and Optimization/ \n
-  SIAM Conference on Optimization (virtual), July 20-23, 2021
+#  /Minitutorial on AI, Machine Learning and Optimization/ \n
+#  SIAM Conference on Optimization (virtual), July 20-23, 2021
 
 - Statistical Optimization Methods for Machine Learning \n
   [../pdf/StatOptForML.pdf Slides] \n
