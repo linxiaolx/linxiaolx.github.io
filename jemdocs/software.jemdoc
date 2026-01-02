@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{software.html}{../}
 = Lin Xiao -- Software
 
+- PARQ: A PyTorch Library for Quantization-Aware Training \n
+  [https://github.com/facebookresearch/parq Github repo] \n
+  [https://openreview.net/pdf?id=8PCxOlwbIn Paper]
+
 - Accelerated Bregman proximal gradient methods \n
   [https://github.com/linxiaolx/accbpg  Github repo] \n
   [https://arxiv.org/abs/1808.03045  Paper]

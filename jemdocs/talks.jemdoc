@@ -1,17 +1,16 @@
 # jemdoc: menu{MENU}{talks.html}{../}
 = Lin Xiao -- Talks
 
-- A Tutorial on Policy Gradient Methods \n
-  [../pdf/policy_grad_tutorial_2021.pdf Slides] \n
-#  /Minitutorial on AI, Machine Learning and Optimization/ \n
+- [../pdf/policy_grad_tutorial_2021.pdf 
+  A Tutorial on Policy Gradient Methods] \n
   SIAM Conference on Optimization (virtual), July 20-23, 2021
 
-- Statistical Optimization Methods for Machine Learning \n
-  [../pdf/StatOptForML.pdf Slides] \n
+- [../pdf/StatOptForML.pdf 
+  Statistical Optimization Methods for Machine Learning] \n
   Online Seminar on Mathematical Foundations of Data Science, September 15, 2020
 
-- Dual averaging method for regularized stochastic learning and online optimization \n
-  [../pdf/NeurIPS2019ToT.pdf Slides] \n
+- [../pdf/NeurIPS2019ToT.pdf 
+  Dual averaging methods for regularized stochastic learning and online optimization] \n
   Presentation for NeurIPS 2019 Test of Time Award, December, 2019
 
 
