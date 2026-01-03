@@ -3,12 +3,68 @@
 
 [https://scholar.google.com/citations?user=vK0-CDcAAAAJ&hl=en Google scholar page] 
 
+=== 2025
+
+- [https://arxiv.org/abs/2507.08963
+  Stochastic Approximation with Block Coordinate Optimal Stepsizes] \n
+  Tao Jiang and Lin Xiao \n
+  arXiv preprint, 2025.
+
+- [https://arxiv.org/abs/2508.11112
+  Quantization through Piecewise-Affine Regularization: Optimization and Statistical Guarantees] \n
+  Jianhao Ma and Lin Xiao \n
+  arXiv preprint, 2025.
+
+- [https://openreview.net/pdf?id=A5Y8Uh5Szl
+  Exploration from a Primal-Dual Lens: Value-Incentivized Actor-Critic Methods for Sample-Efficient Online RL] \n
+  Tong Yang, Bo Dai, Lin Xiao, Yuejie Chi \n
+  NeurIPS 2025.
+
+- [https://openreview.net/pdf?id=PMSNd8xTHp
+  ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization] \n
+  Zechun Liu, Changsheng Zhao, Hanxian Huang, Sijia Chen, Jing Zhang, Jiawei Zhao, Scott Roy, Lisa Jin, Yunyang Xiong, Yangyang Shi, Lin Xiao, Yuandong Tian, Bilge Soran, Raghuraman Krishnamoorthi, Tijmen Blankevoort, Vikas Chandra \n
+  NeurIPS 2025.
+
+- [https://proceedings.mlr.press/v267/jin25e.html
+  PARQ: Piecewise-Affine Regularized Quantization] \n
+  Lisa Jin, Jianhao Ma, Zechun Liu, Andrey Gromov, Aaron Defazio, Lin Xiao \n
+  ICML 2025.
+
+- [https://proceedings.mlr.press/v267/yang25j.html
+  Incentivize without Bonus: Provably Efficient Model-based Online Multi-agent RL for Markov Games] \n
+  Tong Yang, Bo Dai, Lin Xiao, Yuejie Chi \n
+  ICML 2025.
+
+=== 2024
+
+- [https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-6/Noisy-recovery-from-random-linear-observations--Sharp-minimax-rates/10.1214/24-AOS2446.short
+  Noisy recovery from random linear observations: Sharp minimax rates under elliptical constraints] \n
+  Reese Pathak, Martin J. Wainwright, Lin Xiao \n
+  /Annals of Statistics/, 52(6):2816-2850, December 2024. 
+ 
+- [https://arxiv.org/abs/2410.01249
+  Dual Approximation Policy Optimization] \n
+  Zhihan Xiong, Maryam Fazel and Lin Xiao \n
+  arXiv preprint, 2024.
+
+- [https://arxiv.org/abs/2407.04358
+  An Adaptive Stochastic Gradient Method with Non-negative Gauss-Newton Stepsizes] \n
+  Antonio Orvieto and Lin Xiao \n
+  arXiv preprint, 2024.
+
+=== 2023
+
+- [https://pubsonline.informs.org/doi/10.1287/moor.2022.1287
+  Stochastic Optimization with Decision-Dependent Distributions] \n
+  Dmitriy Drusvyatskiy and Lin Xiao \n
+  /Mathematics of Operations Research/, 48(2):954-998, 2023.
+
 === 2022
 
-- [https://arxiv.org/abs/2201.07443
+- [https://www.jmlr.org/papers/v23/22-0056.html
   On the convergence rates of policy gradient methods] \n
   Lin Xiao \n
-  arXiv preprint, 2022.
+  /Journal of Machine Learning Research/, 23(282):1-36, 2022.
 
 === 2021
 
