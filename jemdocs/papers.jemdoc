@@ -145,8 +145,13 @@
 
 - [https://proceedings.neurips.cc/paper/2019/hash/a68259547f3d25ab3c0a5c0adb4e3498-Abstract.html
   Stochastic Composite Gradient Method with Incremental Variance Reduction] \n
-  Junyu Zhang, Lin Xiao
+  Junyu Zhang, Lin Xiao \n
   /Advances in Neural Information Processing Systems 32/ (NeurIPS 2019).
+
+- [https://proceedings.mlr.press/v97/zhang19n
+  A Composite Randomized Incremental Gradient Method] \n
+  Junyu Zhang, Lin Xiao \n
+  Proceedings of the 36th International Conference on Machine Learning (ICML), PMLR 97:7454-7462, 2019.
 
 === 2018
 
@@ -244,11 +249,120 @@
   Yuchen Zhang and Lin Xiao \n
   /Proceedings of the 32nd International Conference on Machine Learning/, PMLR 37:362-370, 2015.
 
+=== 2014
 
+- [https://epubs.siam.org/doi/10.1137/140961791
+  A Proximal Stochastic Gradient Method with Progressive Variance Reduction] \n
+  Lin Xiao and Tong Zhang \n
+  /SIAM Journal on Optimization/, 24(4):2057-2075, 2014.
 
+=== 2013
 
+- [https://epubs.siam.org/doi/abs/10.1137/120869997
+  A Proximal-Gradient Homotopy Method for the Sparse Least-Squares Problem] \n
+  Lin Xiao and Tong Zhang \n
+  /SIAM Journal on Optimization/, 23(2):1062-1091, 2013.
+  
+=== 2012
 
+- [https://jmlr.org/papers/v13/dekel12a.html
+  Optimal Distributed Online Prediction Using Mini-Batches] \n
+  Ofer Dekel, Ran Gilad-Bachrach, Ohad Shamir, Lin Xiao \n
+  /Journal of Machine Learning Research/, 13(6):165−202, 2012.
 
+=== 2010
+
+- [https://jmlr.org/papers/v11/xiao10a.html
+  Dual Averaging Methods for Regularized Stochastic Learning and Online Optimization] \n
+  Lin Xiao \n
+  /Journal of Machine Learning Research/, 11(88):2543-2596, 2010.
+  
+- [https://ieeexplore.ieee.org/document/5563106
+  A Geometric Perspective of Large-Margin Training of Gaussian Models] \n
+  Lin Xiao and Li Deng \n
+  /IEEE Signal Processing Magazine/, 27(6):118-123, 2010.
+
+- [https://link.springer.com/article/10.1007/s10994-009-5124-8
+  Learning to classify with missing and corrupted features] \n
+  Ofer Dekel, Ohad Shamir, Lin Xiao \n
+  /Machine Learning/, 81:149–178, 2010.
+
+=== 2009
+
+- [https://epubs.siam.org/doi/10.1137/070689413
+  Fastest Mixing Markov Chain on Graphs with Symmetries] \n
+  Stephen Boyd, Persi Diaconis, Pablo Parrilo, and Lin Xiao \n
+  /SIAM Journal on Optimization/, 20(2):792-819, 2009.
+
+=== 2007
+
+- [https://www.sciencedirect.com/science/article/abs/pii/S0743731506001808
+  Distributed average consensus with least-mean-square deviation] \n
+  Lin Xiao, Stephen Boyd, Seung-Jean Kim \n
+  /Journal of Parallel and Distributed Computing/, 67(1):33-46, 2007.
+
+=== 2006
+
+- [https://epubs.siam.org/doi/10.1137/S0036144504443821
+  The Fastest Mixing Markov Process on a Graph and a Connection to a Maximum Variance Unfolding Problem] \n
+  Jun Sun, Stephen Boyd, Lin Xiao, and Persi Diaconis \n
+  /SIAM Review/, 48(4):681-699, 2006.
+
+- [https://ieeexplore.ieee.org/document/1611067
+  Cross-layer optimization of wireless networks using nonlinear column generation] \n
+  Mikael Johansson and Lin Xiao \n
+  /IEEE Transactions on Wireless Communications/, 5(2):435-445, 2006.
+
+- [https://link.springer.com/article/10.1007/s10957-006-9080-1
+  Optimal Scaling of a Gradient Method for Distributed Resource Allocation] \n
+  Lin Xiao and Stephen Boyd \n
+  /Journal of Optimization Theory and Applications/, 129:469-488, 2006.
+
+- [https://www.tandfonline.com/doi/abs/10.1080/00029890.2006.11920281
+  Fastest Mixing Markov Chain on a Path] \n
+  Stephen Boyd, Persi Diaconis, Jun Sun, Lin Xiao \n
+  /The American Mathematical Monthly/, 113(1):70–74, 2006.
+
+=== 2005
+
+- [https://epubs.siam.org/doi/10.1137/040609902
+  Least-Squares Covariance Matrix Adjustment] \n
+  Stephen Boyd and Lin Xiao \n
+  /SIAM Journal on Matrix Analysis and Applications/, 27(2):532-546, 2005. 
+
+- [https://projecteuclid.org/journals/internet-mathematics/volume-2/issue-1/Symmetry-Analysis-of-Reversible-Markov-Chains/im/1128530801.pdf
+  Symmetry Analysis of Reversible Markov Chains] \n
+  Stephen Boyd, Persi Diaconis, Pablo Parrilo, and Lin Xiao \n
+  /Internet Mathematics/, 2(1):31-71, 2005.
+
+- [https://link.springer.com/chapter/10.1007/978-3-540-30560-6_11
+  Joint Optimization of Wireless Communication and Networked Control Systems] \n
+  Lin Xiao, Mikael Johansson, Haitham Hindi, Stephen Boyd and Andrea Goldsmith  \n
+  /Switching and Learning in Feedback Systems/, Murray-Smith and Shorten (eds), Lecture Notes in Computer Science, vol 3355, 2005.
+
+=== 2004
+
+- [https://epubs.siam.org/doi/10.1137/S0036144503423264
+  Fastest Mixing Markov Chain on a Graph] \n
+  Stephen Boyd, Persi Diaconis, and Lin Xiao \n
+  /SIAM Review/, 46(4):667-689, 2004.
+
+- [https://www.sciencedirect.com/science/article/abs/pii/S0167691104000398
+  Fast linear iterations for distributed averaging] \n
+  Lin Xiao and Stephen Boyd \n
+  /Systems & Control Letters/, 53(1):65-78, 2004.
+
+- [https://ieeexplore.ieee.org/document/1315914
+  Simultaneous routing and resource allocation via dual decomposition] \n
+  Lin Xiao, Mikael Johansson, Stephey Boyd \n
+  /IEEE Transactions on Communications/, 52(7):1136-1144, July 2004.
+
+=== 2003
+ 
+- [https://ieeexplore.ieee.org/document/1166538
+  Joint optimization of communication rates and linear systems] \n
+  Lin Xiao, Mikael Johansson, Haitham Hindi, Stephen Boyd, Andrea Goldsmith \n
+  /IEEE Transactions on Automatic Control/, 48(1):148-153, 2003.
 
 
 
