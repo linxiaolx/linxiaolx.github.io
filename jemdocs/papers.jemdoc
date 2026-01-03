@@ -40,7 +40,7 @@
 - [https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-6/Noisy-recovery-from-random-linear-observations--Sharp-minimax-rates/10.1214/24-AOS2446.short
   Noisy recovery from random linear observations: Sharp minimax rates under elliptical constraints] \n
   Reese Pathak, Martin J. Wainwright, Lin Xiao \n
-  /Annals of Statistics/, 52(6):2816-2850, December 2024. 
+  /The Annals of Statistics/, 52(6):2816-2850, December 2024. 
  
 - [https://arxiv.org/abs/2410.01249
   Dual Approximation Policy Optimization] \n
@@ -54,17 +54,37 @@
 
 === 2023
 
+- [https://openreview.net/pdf?id=-z9hdsyUwVQ
+  Linear Convergence of Natural Policy Gradient Methods with Log-Linear Policies] \n
+  Rui Yuan, Simon Shaolei Du, Robert M. Gower, Alessandro Lazaric, Lin Xiao \n
+  ICLR 2023.
+
+- [https://openreview.net/pdf?id=bRwBpKrNzF7
+  Faster Last-iterate Convergence of Policy Optimization in Zero-Sum Markov Games] \n
+  Shicong Cen, Yuejie Chi, Simon S. Du, Lin Xiao\n
+  ICLR 2023.
+
+=== 2022
+
 - [https://pubsonline.informs.org/doi/10.1287/moor.2022.1287
   Stochastic Optimization with Decision-Dependent Distributions] \n
   Dmitriy Drusvyatskiy and Lin Xiao \n
-  /Mathematics of Operations Research/, 48(2):954-998, 2023.
+  /Mathematics of Operations Research/, 48(2):954-998, 2022.
 
-=== 2022
+- [https://link.springer.com/article/10.1007/s10107-021-01709-z
+  Stochastic variance-reduced prox-linear algorithms for nonconvex composite optimization] \n
+  Junyu Zhang and Lin Xiao  \n
+  /Mathematical Programming/, 195:649-691, 2020.
 
 - [https://www.jmlr.org/papers/v23/22-0056.html
   On the convergence rates of policy gradient methods] \n
   Lin Xiao \n
   /Journal of Machine Learning Research/, 23(282):1-36, 2022.
+
+- [https://proceedings.mlr.press/v162/pillutla22a
+  Federated Learning with Partial Model Personalization] \n
+  Krishna Pillutla, Kshitiz Malik, Abdel-Rahman Mohamed, Mike Rabbat, Maziar Sanjabi, Lin Xiao \n
+  ICML 2022.
 
 === 2021
 
@@ -95,19 +115,9 @@
 
 === 2020
 
-- [https://arxiv.org/abs/2011.11173
-  Stochastic optimization with decision-dependent distributions] \n
-  Dmitriy Drusvyatskiy and Lin Xiao  \n
-  /arXiv preprint/, 2020.
-
 - [https://arxiv.org/abs/2002.10597 
   Statistical Adaptive Stochastic Gradient Methods] \n
   Pengchuan Zhang, Hunter Lang, Qiang Liu, and Lin Xiao \n
-  /arXiv preprint/, 2020.
-
-- [https://arxiv.org/abs/2004.04357
-  Stochastic variance-reduced prox-linear algorithms for nonconvex composite optimization] \n
-  Junyu Zhang and Lin Xiao  \n
   /arXiv preprint/, 2020.
 
 - [http://proceedings.mlr.press/v119/hendrikx20a.html
