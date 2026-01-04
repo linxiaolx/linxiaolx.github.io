@@ -5,6 +5,11 @@
 
 === 2025
 
+- [https://arxiv.org/pdf/2512.17131
+  Smoothing DiLoCo with Primal Averaging for Faster Training of LLMs] \n
+  Aaron Defazio, Konstantin Mishchenko, Parameswaran Raman, Hao-Jun Michael Shi, Lin Xiao \n
+  /arXiv preprint/, 2025.
+
 - [https://arxiv.org/abs/2507.08963
   Stochastic Approximation with Block Coordinate Optimal Stepsizes] \n
   Tao Jiang and Lin Xiao \n
@@ -24,6 +29,12 @@
   ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization] \n
   Zechun Liu, Changsheng Zhao, Hanxian Huang, Sijia Chen, Jing Zhang, Jiawei Zhao, Scott Roy, Lisa Jin, Yunyang Xiong, Yangyang Shi, Lin Xiao, Yuandong Tian, Bilge Soran, Raghuraman Krishnamoorthi, Tijmen Blankevoort, Vikas Chandra \n
   NeurIPS 2025.
+
+- [https://openreview.net/pdf?id=bYu4DOqRY8
+  LoRe: Personalizing LLMs via Low-Rank Reward Modeling] \n
+  Avinandan Bose, Zhihan Xiong, Yuejie Chi, Simon Shaolei Du, Lin Xiao, Maryam Fazel \n
+  /Proceedings of Second Conference on Language Modeling (CoLM)/, 2025.
+
 
 - [https://proceedings.mlr.press/v267/jin25e.html
   PARQ: Piecewise-Affine Regularized Quantization] \n
@@ -81,10 +92,21 @@
   Lin Xiao \n
   /Journal of Machine Learning Research/, 23(282):1-36, 2022.
 
+- [https://proceedings.neurips.cc/paper_files/paper/2022/file/5c1863f711c721648387ac2ef745facb-Paper-Conference.pdf
+  BiT: Robustly Binarized Multi-distilled Transformer] \n
+  Zechun Liu, Barlas Oguz, Aasish Pappu, Lin Xiao, Scott Yih, Meng Li, Raghuraman Krishnamoorthi, Yashar Mehdad \n
+  [https://proceedings.neurips.cc/paper_files/paper/2022/hash/5c1863f711c721648387ac2ef745facb-Abstract-Conference.html
+  Advances in Neural Information Processing Systems (NeurIPS) 35/, 2022.]
+
 - [https://proceedings.mlr.press/v162/pillutla22a
   Federated Learning with Partial Model Personalization] \n
   Krishna Pillutla, Kshitiz Malik, Abdel-Rahman Mohamed, Mike Rabbat, Maziar Sanjabi, Lin Xiao \n
   ICML 2022.
+
+- [https://openreview.net/pdf?id=Lgs5pQ1v30
+  FedShuffle: Recipes for Better Use of Local Work in Federated Learning] \n
+  Samuel Horváth, Maziar Sanjabi, Lin Xiao, Peter Richtárik, Michael Rabbat \n
+  /Transactions of Machine Learning Research/, 2022.
 
 === 2021
 
