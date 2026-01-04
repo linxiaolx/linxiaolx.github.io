@@ -74,7 +74,7 @@
 - [https://link.springer.com/article/10.1007/s10107-021-01709-z
   Stochastic variance-reduced prox-linear algorithms for nonconvex composite optimization] \n
   Junyu Zhang and Lin Xiao  \n
-  /Mathematical Programming/, 195:649-691, 2020.
+  /Mathematical Programming/, 195:649-691, 2022.
 
 - [https://www.jmlr.org/papers/v23/22-0056.html
   On the convergence rates of policy gradient methods] \n
@@ -136,34 +136,34 @@
 - [https://papers.nips.cc/paper/2019/hash/e1054bf2d703bca1e8fe101d3ac5efcd-Abstract.html
   Using Statistics to Automate Stochastic Optimization] \n
   Hunter Lang, Lin Xiao, Pengchuan Zhang \n
-  /Advances in Neural Information Processing Systems 32/ (NeurIPS 2019).
+  /Advances in Neural Information Processing Systems (NeurIPS) 32/, 2019.
 
 - [https://proceedings.neurips.cc/paper/2019/hash/4eff0720836a198b6174eecf02cbfdbf-Abstract.html
   Understanding the Role of Momentum in Stochastic Gradient Methods] \n
   Igor Gitman, Hunter Lang, Pengchuan Zhang, Lin Xiao \n
-  /Advances in Neural Information Processing Systems 32/ (NeurIPS 2019).
+  /Advances in Neural Information Processing Systems (NeurIPS) 32/, 2019.
 
 - [https://proceedings.neurips.cc/paper/2019/hash/a68259547f3d25ab3c0a5c0adb4e3498-Abstract.html
   Stochastic Composite Gradient Method with Incremental Variance Reduction] \n
   Junyu Zhang, Lin Xiao \n
-  /Advances in Neural Information Processing Systems 32/ (NeurIPS 2019).
+  /Advances in Neural Information Processing Systems (NeurIPS) 32/, 2019.
 
 - [https://proceedings.mlr.press/v97/zhang19n
   A Composite Randomized Incremental Gradient Method] \n
   Junyu Zhang, Lin Xiao \n
-  Proceedings of the 36th International Conference on Machine Learning (ICML), PMLR 97:7454-7462, 2019.
+  /Proceedings of the 36th International Conference on Machine Learning (ICML)/, PMLR 97:7454-7462, 2019.
 
 === 2018
 
 - [https://papers.nips.cc/paper/2018/hash/6aaba9a124857622930ca4e50f5afed2-Abstract.html
   Coupled Variational Bayes via Optimization Embedding] \n
   Bo Dai, Hanjun Dai, Niao He, Weiyang Liu, Zhen Liu, Jianshu Chen, Lin Xiao, Le Song \n
-  /Advances in Neural Information Processing Systems 31/ (NeurIPS 2018).
+  /Advances in Neural Information Processing Systems (NeurIPS) 31/, 2018.
 
 - [https://papers.nips.cc/paper/2018/hash/03b2ceb73723f8b53cd533e4fba898ee-Abstract.html
   Learning SMaLL Predictors] \n
   Vikas Garg, Ofer Dekel, Lin Xiao \n
-  /Advances in Neural Information Processing Systems 31/ (NeurIPS 2018).
+  /Advances in Neural Information Processing Systems (NeurIPS) 31/, 2018.
 
 - [http://proceedings.mlr.press/v80/dai18c.html
   SBEED: Convergent Reinforcement Learning with Nonlinear Function Approximation] \n
@@ -200,7 +200,7 @@
 - [https://papers.nips.cc/paper/2017/hash/c0e90532fb42ac6de18e25e95db73047-Abstract.html
   Q-LDA: Uncovering Latent Patterns in Text-based Sequential Decision Processes] \n
   Jianshu Chen, Chong Wang, Lin Xiao, Ji He, Lihong Li, Li Deng \n
-  /Advances in Neural Information Processing Systems 30/ (NIPS 2017).
+  /Advances in Neural Information Processing Systems (NIPS) 30/, 2017.
 
 - [http://proceedings.mlr.press/v70/du17a.html
   Stochastic Variance Reduction Methods for Policy Evaluation] \n
@@ -232,7 +232,7 @@
 - [https://papers.nips.cc/paper/2015/hash/4ca82782c5372a547c104929f03fe7a9-Abstract.html
   End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture] \n
   Jianshu Chen, Ji He, Yelong Shen, Lin Xiao, Xiaodong He, Jianfeng Gao, Xinying Song, Li Deng \n
-  /Advances in Neural Information Processing Systems 28/ (NIPS 2015).
+  /Advances in Neural Information Processing Systems (NIPS) 28/, 2015.
 
 - [https://dl.acm.org/doi/10.1145/2783258.2783412
   Scaling Up Stochastic Dual Coordinate Ascent] \n
@@ -259,7 +259,7 @@
 - [https://papers.nips.cc/paper_files/paper/2014/hash/7603c1fcfb1ac7b7a311456f72f99584-Abstract.html
   An Accelerated Proximal Coordinate Gradient Method] \n
   Qihang Lin, Zhaosong Lu, Lin Xiao \n
-  /Advances in Neural Information Processing Systems 27 (NIPS)/, 2014.
+  /Advances in Neural Information Processing Systems (NIPS) 27/, 2014.
 
 - [https://aaai.org/papers/8957-online-classification-using-a-voted-rda-method
   Online Classification Using a Voted RDA Method] \n
