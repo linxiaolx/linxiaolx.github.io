@@ -256,6 +256,21 @@
   Lin Xiao and Tong Zhang \n
   /SIAM Journal on Optimization/, 24(4):2057-2075, 2014.
 
+- [https://papers.nips.cc/paper_files/paper/2014/hash/7603c1fcfb1ac7b7a311456f72f99584-Abstract.html
+  An Accelerated Proximal Coordinate Gradient Method] \n
+  Qihang Lin, Zhaosong Lu, Lin Xiao \n
+  /Advances in Neural Information Processing Systems 27 (NIPS)/, 2014.
+
+- [https://aaai.org/papers/8957-online-classification-using-a-voted-rda-method
+  Online Classification Using a Voted RDA Method] \n
+  Tianbing Xu, Jianfeng Gao, Lin Xiao, Amelia Regan \n
+  /Proceedings of the 28th AAAI Conference on Artificial Intelligence/, 2014.
+
+- [https://proceedings.mlr.press/v32/lin14.html
+  An Adaptive Accelerated Proximal Gradient Method and its Homotopy Continuation for Sparse Optimization] \n
+  Qihang Lin and Lin Xiao \n
+  /Proceedings of the 31st International Conference on Machine Learning (ICML)/, PMLR 32(1):73-81, 2014.
+
 === 2013
 
 - [https://epubs.siam.org/doi/abs/10.1137/120869997
@@ -270,6 +285,28 @@
   Ofer Dekel, Ran Gilad-Bachrach, Ohad Shamir, Lin Xiao \n
   /Journal of Machine Learning Research/, 13(6):165−202, 2012.
 
+- [https://icml.cc/2012/papers/447.pdf
+  A Proximal-Gradient Homotopy Method for the L1-Regularized Least-Squares Problem] \n
+  Lin Xiao and Tong Zhang \n
+  /Proceedings of the 29th International Conference on Machine Learning (ICML)/, 2012.
+
+=== 2011
+
+- [https://icml.cc/2011/papers/437_icmlpaper.pdf
+  Hierarchical Classification via Orthogonal Transfer] \n
+  Dengyong Zhou, Lin Xiao and Mingrui Wu \n
+  /Proceedings of the 28th International Conference on Machine Learning (ICML)/, 2011.
+
+- [https://icml.cc/2011/papers/404_icmlpaper.pdf
+  Optimal Distributed Online Prediction] \n
+  Ofer Dekel, Ran Gilad-Bachrach, Ohad Shamir, Lin Xiao \n
+  /Proceedings of the 28th International Conference on Machine Learning (ICML)/, 2011.
+
+- [https://dl.acm.org/doi/10.1145/1993574.1993594
+  Distributed algorithms via gradient descent for fisher markets] \n
+  Benjamin Birnbaum, Nikhil R. Devanur, Lin Xiao \n
+  /Proceedings of the 12th ACM conference on Electronic Commerce/, Pages 127-136, 2011.
+  
 === 2010
 
 - [https://jmlr.org/papers/v11/xiao10a.html
@@ -287,12 +324,29 @@
   Ofer Dekel, Ohad Shamir, Lin Xiao \n
   /Machine Learning/, 81:149–178, 2010.
 
+- [https://www.learningtheory.org/colt2010/conference-website/papers/037agarwal.pdf
+  Optimal Algorithms for Online Convex Optimization with Multi-Point Bandit Feedback] \n
+  Alekh Agarwal, Ofer Dekel, Lin Xiao \n
+  /The 23rd Annual Conference on Learning Theory (COLT)/, 2010.
+
 === 2009
 
 - [https://epubs.siam.org/doi/10.1137/070689413
   Fastest Mixing Markov Chain on Graphs with Symmetries] \n
   Stephen Boyd, Persi Diaconis, Pablo Parrilo, and Lin Xiao \n
   /SIAM Journal on Optimization/, 20(2):792-819, 2009.
+
+- [https://papers.nips.cc/paper_files/paper/2009/hash/7cce53cf90577442771720a370c3c723-Abstract.html
+  Dual Averaging Method for Regularized Stochastic Learning and Online Optimization] \n
+  Lin Xiao \n
+  /Advances in Neural Information Processing Systems (NIPS)/ 22, 2009.
+
+=== 2008
+
+- [https://www.usenix.org/legacy/event/nsdi08/tech/full_papers/chen/chen.pdf
+  Energy-Aware Server Provisioning and Load Dispatching for Connection-Intensive Internet Services] \n
+  Gong Chen, Wenbo He, Jie Liu, Suman Nath, Leonidas Rigas, Lin Xiao, Feng Zhao \n
+  /Proceedings of the 5th USENIX Symposium on Networked Systems Design and Implementation (NSDI'08)/, Pages 337-350, 2008.
 
 === 2007
 
@@ -323,6 +377,16 @@
   Stephen Boyd, Persi Diaconis, Jun Sun, Lin Xiao \n
   /The American Mathematical Monthly/, 113(1):70–74, 2006.
 
+- [https://dl.acm.org/doi/abs/10.1145/1143844.1143975
+  A duality view of spectral methods for dimensionality reduction] \n
+  Lin Xiao, Jun Sun, Stephen Boyd \n
+  /Proceedings of the 23rd international conference on Machine learning (ICML)/, Pages 1041-1048, 2006.
+
+- [https://ieeexplore.ieee.org/document/1662455
+  A space-time diffusion scheme for peer-to-peer least-squares estimation] \n
+  Lin Xiao, Stephen Boyd, Sanjay Lall \n
+  /Proceedings of the 5th International Conference on Information Processing in Sensor Networks (IPSN)/, 2006.
+
 === 2005
 
 - [https://epubs.siam.org/doi/10.1137/040609902
@@ -339,6 +403,11 @@
   Joint Optimization of Wireless Communication and Networked Control Systems] \n
   Lin Xiao, Mikael Johansson, Haitham Hindi, Stephen Boyd and Andrea Goldsmith  \n
   /Switching and Learning in Feedback Systems/, Murray-Smith and Shorten (eds), Lecture Notes in Computer Science, vol 3355, 2005.
+
+- [https://dl.acm.org/doi/10.5555/1147685.1147698
+  A scheme for robust distributed sensor fusion based on average consensus] \n
+  Lin Xiao, Stephen Boyd, Sanjay Lall \n
+  /Proceedings of the 4th International Conference on Information Processing in Sensor Networks (IPSN)/, 2005.
 
 === 2004
 
@@ -357,6 +426,17 @@
   Lin Xiao, Mikael Johansson, Stephey Boyd \n
   /IEEE Transactions on Communications/, 52(7):1136-1144, July 2004.
 
+- [https://ieeexplore.ieee.org/document/1429372
+  A decomposition approach to distributed analysis of networked systems] \n
+  Cedric Langbort, Lin Xiao, Raffaello D’Andrea, Stephen Boyd \n
+  /Proceedings of the 43rd IEEE Conference on Decision and Control (CDC)/, 2004.
+
+- [https://ieeexplore.ieee.org/document/1390474
+  Scheduling, routing and power allocation for fairness in wireless networks] \n
+  Mikael Johansson and Lin Xiao \n
+  /Proceedings of IEEE 59th Vehicular Technology Conference/, 2004.
+
+
 === 2003
  
 - [https://ieeexplore.ieee.org/document/1166538
@@ -364,9 +444,29 @@
   Lin Xiao, Mikael Johansson, Haitham Hindi, Stephen Boyd, Andrea Goldsmith \n
   /IEEE Transactions on Automatic Control/, 48(1):148-153, 2003.
 
+- [https://ieeexplore.ieee.org/document/1272421
+  Fast linear iterations for distributed averaging] \n
+  Lin Xiao and Stephen Boyd \n
+  /Proceedings of the 42nd IEEE International Conference on Decision and Control (CDC)/, 2003.
 
+- [https://web.stanford.edu/~boyd/papers/srracdma.html
+  Simultaneous Routing and Resource Allocation in CDMA Wireless Data Networks] \n
+  Mikael Johansson, Lin Xiao, Stephen Boyd \n
+  /Proceedings of IEEE International Conference on Communications/, Anchorage, Alaska, May 2003.
 
+=== 2001
 
+- [https://ieeexplore.ieee.org/document/980606
+  Joint optimization of communication rates and linear systems] \n
+  Lin Xiao, Mikael Johansson, Haitham Hindi, Stephen Boyd and Andrea Goldsmith \n
+  /Proceedings of the 40th IEEE Conference on Decision and Control (CDC)/, 2001.
+
+=== 2000
+
+- [https://ieeexplore.ieee.org/document/879591
+  Control with random communication delays via a discrete-time jump system approach] \n
+  Lin Xiao, Arash Hassibi, Jonathan P. How \n
+  /Proceedings of the 2000 American Control Conference (ACC)/, 2000.
 
 
 
